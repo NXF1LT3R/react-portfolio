@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b83f1cfc.css",
+    "main.js": "/react-portfolio/static/js/main.0ce0dcb1.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/me2.jpg": "/react-portfolio/static/media/me2.925a323430efe02daa4a.jpg",
+    "static/media/challenge1.jpg": "/react-portfolio/static/media/challenge1.d49b9a4ca5bef1d69a0d.jpg",
+    "static/media/weather.jpg": "/react-portfolio/static/media/weather.c76eb07f5cf668ee6ea8.jpg",
+    "static/media/coders-cave.jpg": "/react-portfolio/static/media/coders-cave.42b5c433aad7e60c29ea.jpg",
+    "static/media/boredAF.jpg": "/react-portfolio/static/media/boredAF.981e94d821295e65be71.jpg",
+    "static/media/quiz.jpg": "/react-portfolio/static/media/quiz.edc43961b2565b7fa85d.jpg",
+    "static/media/pw-generator.jpg": "/react-portfolio/static/media/pw-generator.549b5fbcf26293e44ebe.jpg",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.b83f1cfc.css.map": "/react-portfolio/static/css/main.b83f1cfc.css.map",
+    "main.0ce0dcb1.js.map": "/react-portfolio/static/js/main.0ce0dcb1.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83f1cfc.css",
+    "static/js/main.0ce0dcb1.js"
+  ]
+}
