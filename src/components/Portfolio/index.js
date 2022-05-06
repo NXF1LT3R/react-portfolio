@@ -5,6 +5,7 @@ import boredAF from '../../assets/images/boredAF.jpg'
 import codersCave from '../../assets/images/coders-cave.jpg'
 import quiz from '../../assets/images/quiz.jpg'
 import weather from '../../assets/images/weather.jpg'
+import shopify2 from '../../assets/images/shopify2-0.jpg'
 import Footer from '../Footer';
 
 function Portfolio() {
@@ -50,6 +51,11 @@ function Portfolio() {
         </div>
         <a href="https://pure-everglades-43557.herokuapp.com/" class="work-link" >Coders Cave Deployed Application</a><br/>
         <a href="https://github.com/perfect-perfect/coders-cave" class="work-link" >Coders Cave GitHub Repository</a>
+        <div>
+        <img src={shopify2} alt=""/>
+        </div>
+        <a href="https://shopify-2-ed-ryan-dariga.herokuapp.com/" class="work-link" >Shopify 2.0 Deployed Application</a><br/>
+        <a href="https://github.com/rrich-kray/shopify-2.0" class="work-link" >Shopify 2.0 GitHub Repository</a>
         </div>
     </section>
     <Footer />
